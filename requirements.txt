@@ -1,0 +1,15 @@
+casanova==1.16.1
+certifi==2023.11.17
+charset-normalizer==3.3.2
+click==8.1.7
+ebbe==1.13.2
+idna==3.4
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pyaml==23.9.7
+Pygments==2.17.2
+PyYAML==6.0.1
+requests==2.31.0
+rich==13.7.0
+ural==1.2.1
+urllib3==2.1.0
